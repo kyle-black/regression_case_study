@@ -13,7 +13,7 @@ Then we will take the best model and features to fit our new regression line.
 
 We found the following columns had Pearson correlations above .25.:
 
-**HIV drag, HIV inched  MH_fac      Med_mh_Fac.  Med_sa_fac    Med SMAT _fac.   TMAT.    Plhiv.  SmATred_fac          Tmat_fa              bup_phys.         %msm12month           %msm5ye**    
+**HIV drag, HIV inched,  MH_fac,      Med_mh_Fac.,  Med_sa_fac,    Med SMAT _fac.,   TMAT.,    Plhiv.,  SmATred_fac,          Tmat_fa,              bup_phys.,         %msm12month,        %msm5ye**    
 
 
 
