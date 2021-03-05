@@ -1,3 +1,7 @@
+
+**HIV Regression Case Study**
+
+
 Using the merged HIV models. We wanted to find out with combination of predictors (X) created the best prediction of out target (Y). In our case we want to compare normal regression against Ridge Regression and Lasso Regression to see which model return the lowest  Mean Squared Error. 
 
 Then we will take the best model and features to fit our new regression line.
