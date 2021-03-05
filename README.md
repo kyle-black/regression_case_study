@@ -48,3 +48,7 @@ Then plotted the Ridge Regression Train and Test Mean Squared error. With Mean S
 
 
 **9) We took the individual coefficient paths and plotted them against alphas.**
+
+![alt text](https://github.com/kyle-black/regression_case_study/blob/main/images/ridge_regression_standard_coefficient_paths.png)
+
+
