@@ -2,7 +2,7 @@
 **HIV Regression Case Study**
 
 
-Using the merged HIV models. We wanted to find out with combination of predictors (X) created the best prediction of out target (Y). In our case we want to compare normal regression against Ridge Regression and Lasso Regression to see which model return the lowest  Mean Squared Error. 
+Using the merged HIV models. We wanted to find out with combination of predictors (X) created the best prediction of out target (Y). In our case we want to compare OLS regression against Ridge Regression and Lasso Regression to see which model return the lowest Mean Squared Error. 
 
 Then we will take the best model and features to fit our new regression line.
 
@@ -13,7 +13,7 @@ Then we will take the best model and features to fit our new regression line.
 
 We found the following columns had Pearson correlations above .25.:
 
-HIV drag, HIV inched  MH_fac      Med_mh_Fac.  Med_sa_fac    Med SMAT _fac.   TMAT.    Plhiv.  SmATred_fac          Tmat_fa              bup_phys.         %msm12month           %msm5ye    
+**HIV drag, HIV inched  MH_fac      Med_mh_Fac.  Med_sa_fac    Med SMAT _fac.   TMAT.    Plhiv.  SmATred_fac          Tmat_fa              bup_phys.         %msm12month           %msm5ye**    
 
 
 
